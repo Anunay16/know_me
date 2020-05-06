@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+a:hover {
+  background-color: yellow;
+}
+.top_container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  position: relative;
+}
+.middle-container {
+  background-color: whitesmoke;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 437.5%;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  text-decoration: underline;
+}
+h3 {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #11999E;
+}
+.p1 {
+  margin-top: 0;
+  font-size: 20px;
+}
+.top-cloud {
+  position: absolute;
+  right: 15%;
+  top: 10%;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 15%;
+  bottom: 51%;
+}
+.profile {
+  background-color: #EAF6F6;
+  padding-bottom: 10px;
+  margin-top: 0;
+  padding-top: 10px;
+}
+.dp-1 {
+  height: 350px;
+  width: 350px;
+  padding-top: 30px;
+
+}
+.description {
+  line-height: 2;
+}
+.p-above-victoria {
+  margin-top: 0;
+  padding-top: 3px;
+}
+.heading-Photography {
+  margin-bottom: 2px;
+}
+.victoria-photo {
+  height: 3%;
+  width: 50%;
+}
+.web-d {
+  height: 3%;
+  width: 50%;
+}
+.after-pic {
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 3px;
+width: 3rem;
+}
+.hr-above-skills {
+  margin: 0;
+  border-style: none;
+  border-top-style: dashed;
+  border-color: grey;
+  border-width: 3px;
+}
+.skills {
+  margin: 0;
+  padding-bottom: 20px;
+}
+.skill-row {
+  width: 60%;
+  margin: 0 auto;
+  }
+.My-Skills {
+
+  margin: 0;
+  padding-top: 20px;
+}
+.hr-below-pic {
+  border-style: dashed;
+}
+.bottom-container {
+  background-color: seagreen;
+  margin-top: 30px;
+  padding-top: 10px;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+.footer-link {
+  margin-left: 10px;
+  color: #EAF6F6;
+  }
+.footer-link:hover {
+  background-color: black;
+}
+
+  .btn {
+  	box-shadow: 0px 10px 14px -7px #276873;
+  	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  	background-color:#599bb3;
+  	border-radius:8px;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:20px;
+  	font-weight:bold;
+  	padding:13px 32px;
+  	text-decoration:none;
+  	text-shadow:0px 1px 0px #3d768a;
+  }
+  .btn {
+  	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  	background-color:#408c99;
+  }
+  .btn {
+  	position:relative;
+  	top:1px;
+  }
+  .rights {
+    color: #EAF6F6;
+    text-decoration: underline;
+  }
